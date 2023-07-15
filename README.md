@@ -3,7 +3,7 @@
 
 ## Basics
 
-- <details>
+<details>
 
 <summary> Introduction </summary>
 
